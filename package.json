@@ -13,7 +13,9 @@
     "pouchdb-errors": "6.4.1",
     "pouchdb-json": "6.4.1",
     "pouchdb-merge": "6.4.1",
-    "pouchdb-utils": "6.4.1",
+    "pouchdb-utils": "6.4.1"
+  },
+  "peerDependencies": {
     "react-native-fetch-blob": "git+https://github.com/kkbhav/react-native-fetch-blob.git#work"
   },
   "deprecated": false,
